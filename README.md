@@ -27,6 +27,6 @@ Total: $53.10
 python -m pytest test_tip_calculator.py
 ```
 
-## Requirments
+## Requirements
 
 - Python 3.8+
