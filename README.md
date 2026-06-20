@@ -2,6 +2,22 @@
 
 A small Python utility that calculates the tip and total for a restaurant bill.
 
+## Installation
+
+1. Make sure you have Python 3.8 or higher installed. Check with:
+   ```bash
+   python --version
+   ```
+   If you don't have it, download it from [python.org](https://www.python.org/downloads/).
+
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/beepdeha/tip-calculator.git
+   cd tip-calculator
+   ```
+
+3. No additional dependencies are required — the calculator uses only the Python standard library.
+
 ## Usage
 
 ```bash
